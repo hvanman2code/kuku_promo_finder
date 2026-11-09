@@ -1,0 +1,222 @@
+[
+  {
+    "stage": "baseline",
+    "candidate": "E02-0-5150",
+    "reason": "Cut splits speaker's continuous monologue"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E04-500-5580",
+    "reason": "Cut splits speaker's continuous monologue"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E04-7620-13150",
+    "reason": "Cut splits speaker's continuous monologue"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E07-6950-9000",
+    "reason": "Cut splits speaker's continuous monologue"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E07-1950-6950",
+    "reason": "Cut splits speaker's continuous monologue"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E10-6620-8650",
+    "reason": "Mid-conversation opening depends on prior context"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E11-5800-8500",
+    "reason": "False cliffhanger: tension defused or answered within 15s"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E13-4580-10300",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E17-3650-9300",
+    "reason": "No explicit unresolved-stakes cue at the cut"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E18-5620-8150",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E19-8400-10980",
+    "reason": "Mid-conversation opening depends on prior context"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E23-7850-12450",
+    "reason": "No explicit unresolved-stakes cue at the cut"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E23-1680-7600",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E25-7950-12800",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E28-2670-7530",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E31-6550-9120",
+    "reason": "No explicit unresolved-stakes cue at the cut"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E32-8000-10940",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E33-2100-7950",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E36-4150-9320",
+    "reason": "Spoiler: reveals late-series central identity twist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E36-11950-17400",
+    "reason": "Cut splits speaker's continuous monologue"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E37-950-3450",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E38-1750-4550",
+    "reason": "Mid-conversation opening depends on prior context"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E39-1380-7180",
+    "reason": "No explicit unresolved-stakes cue at the cut"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E39-7480-9841",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E40-2300-4520",
+    "reason": "Clarification question too short to hold a cliffhanger"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E41-1300-3400",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E42-2340-7250",
+    "reason": "Spoiler: reveals late-series central identity twist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E43-1050-6450",
+    "reason": "Spoiler: reveals late-series central identity twist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E43-6880-9650",
+    "reason": "Spoiler: reveals late-series central identity twist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E44-1380-6240",
+    "reason": "Spoiler: reveals late-series central identity twist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E45-2450-8050",
+    "reason": "Spoiler: reveals late-series central identity twist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E45-8050-11320",
+    "reason": "Opening too terse for an unchecked shortlist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E46-6280-9680",
+    "reason": "Spoiler: reveals late-series central identity twist"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E46-2050-4280",
+    "reason": "Cut splits speaker's continuous monologue"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E47-5680-8650",
+    "reason": "False cliffhanger: tension defused or answered within 15s"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E47-8800-12750",
+    "reason": "Mid-conversation opening depends on prior context"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E48-2670-6690",
+    "reason": "No explicit unresolved-stakes cue at the cut"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E48-0-2000",
+    "reason": "No explicit unresolved-stakes cue at the cut"
+  },
+  {
+    "stage": "baseline",
+    "candidate": "E50-3980-7050",
+    "reason": "Fewer than 30 seconds of continuation in input"
+  },
+  {
+    "stage": "rank",
+    "candidate": "E11-1680-4330+E12-0-2370",
+    "reason": "Source footage overlaps an admitted candidate"
+  },
+  {
+    "stage": "rank",
+    "candidate": "E01-3540-7900",
+    "reason": "Source footage overlaps an admitted candidate"
+  },
+  {
+    "stage": "rank",
+    "candidate": "E03-11920-14050",
+    "reason": "Source footage overlaps an admitted candidate"
+  },
+  {
+    "stage": "rank",
+    "candidate": "E27-3490-8080",
+    "reason": "Hook-type diversity cap"
+  },
+  {
+    "stage": "rank",
+    "candidate": "E05-0-3340",
+    "reason": "Hook-type diversity cap"
+  }
+]

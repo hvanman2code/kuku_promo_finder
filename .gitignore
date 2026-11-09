@@ -1,0 +1,18 @@
+# Keep the confidential source pack outside this repository.
+*.txt
+*.zip
+*.pdf
+input/
+inputs/
+data/
+upload/
+private/
+.cache/
+.env*
+*.sqlite*
+__pycache__/
+*.pyc
+.staging-*
+walkthrough.md
+solution.md
+solution.pdf

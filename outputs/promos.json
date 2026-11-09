@@ -1,0 +1,793 @@
+{
+  "run": {
+    "mode": "baseline",
+    "model": null,
+    "provider": null,
+    "episodes": 50,
+    "beats": 3727,
+    "per_episode": [
+      {
+        "episode": 1,
+        "beats": 95,
+        "windows_examined": 466,
+        "eligible_windows": 205,
+        "shortlisted": 2
+      },
+      {
+        "episode": 2,
+        "beats": 74,
+        "windows_examined": 349,
+        "eligible_windows": 177,
+        "shortlisted": 2
+      },
+      {
+        "episode": 3,
+        "beats": 118,
+        "windows_examined": 476,
+        "eligible_windows": 263,
+        "shortlisted": 2
+      },
+      {
+        "episode": 4,
+        "beats": 110,
+        "windows_examined": 541,
+        "eligible_windows": 266,
+        "shortlisted": 2
+      },
+      {
+        "episode": 5,
+        "beats": 62,
+        "windows_examined": 158,
+        "eligible_windows": 68,
+        "shortlisted": 2
+      },
+      {
+        "episode": 6,
+        "beats": 97,
+        "windows_examined": 266,
+        "eligible_windows": 128,
+        "shortlisted": 2
+      },
+      {
+        "episode": 7,
+        "beats": 58,
+        "windows_examined": 219,
+        "eligible_windows": 51,
+        "shortlisted": 2
+      },
+      {
+        "episode": 8,
+        "beats": 63,
+        "windows_examined": 224,
+        "eligible_windows": 153,
+        "shortlisted": 1
+      },
+      {
+        "episode": 9,
+        "beats": 89,
+        "windows_examined": 313,
+        "eligible_windows": 167,
+        "shortlisted": 2
+      },
+      {
+        "episode": 10,
+        "beats": 60,
+        "windows_examined": 293,
+        "eligible_windows": 130,
+        "shortlisted": 2
+      },
+      {
+        "episode": 11,
+        "beats": 85,
+        "windows_examined": 129,
+        "eligible_windows": 70,
+        "shortlisted": 2
+      },
+      {
+        "episode": 12,
+        "beats": 55,
+        "windows_examined": 122,
+        "eligible_windows": 72,
+        "shortlisted": 1
+      },
+      {
+        "episode": 13,
+        "beats": 75,
+        "windows_examined": 248,
+        "eligible_windows": 119,
+        "shortlisted": 2
+      },
+      {
+        "episode": 14,
+        "beats": 51,
+        "windows_examined": 134,
+        "eligible_windows": 42,
+        "shortlisted": 2
+      },
+      {
+        "episode": 15,
+        "beats": 55,
+        "windows_examined": 181,
+        "eligible_windows": 48,
+        "shortlisted": 2
+      },
+      {
+        "episode": 16,
+        "beats": 64,
+        "windows_examined": 178,
+        "eligible_windows": 101,
+        "shortlisted": 2
+      },
+      {
+        "episode": 17,
+        "beats": 75,
+        "windows_examined": 188,
+        "eligible_windows": 98,
+        "shortlisted": 2
+      },
+      {
+        "episode": 18,
+        "beats": 81,
+        "windows_examined": 362,
+        "eligible_windows": 50,
+        "shortlisted": 2
+      },
+      {
+        "episode": 19,
+        "beats": 63,
+        "windows_examined": 284,
+        "eligible_windows": 70,
+        "shortlisted": 2
+      },
+      {
+        "episode": 20,
+        "beats": 68,
+        "windows_examined": 77,
+        "eligible_windows": 35,
+        "shortlisted": 2
+      },
+      {
+        "episode": 21,
+        "beats": 76,
+        "windows_examined": 158,
+        "eligible_windows": 82,
+        "shortlisted": 2
+      },
+      {
+        "episode": 22,
+        "beats": 81,
+        "windows_examined": 292,
+        "eligible_windows": 99,
+        "shortlisted": 2
+      },
+      {
+        "episode": 23,
+        "beats": 67,
+        "windows_examined": 324,
+        "eligible_windows": 65,
+        "shortlisted": 2
+      },
+      {
+        "episode": 24,
+        "beats": 69,
+        "windows_examined": 139,
+        "eligible_windows": 91,
+        "shortlisted": 2
+      },
+      {
+        "episode": 25,
+        "beats": 95,
+        "windows_examined": 305,
+        "eligible_windows": 152,
+        "shortlisted": 2
+      },
+      {
+        "episode": 26,
+        "beats": 51,
+        "windows_examined": 143,
+        "eligible_windows": 11,
+        "shortlisted": 1
+      },
+      {
+        "episode": 27,
+        "beats": 95,
+        "windows_examined": 435,
+        "eligible_windows": 180,
+        "shortlisted": 2
+      },
+      {
+        "episode": 28,
+        "beats": 96,
+        "windows_examined": 242,
+        "eligible_windows": 139,
+        "shortlisted": 2
+      },
+      {
+        "episode": 29,
+        "beats": 74,
+        "windows_examined": 327,
+        "eligible_windows": 135,
+        "shortlisted": 2
+      },
+      {
+        "episode": 30,
+        "beats": 71,
+        "windows_examined": 228,
+        "eligible_windows": 88,
+        "shortlisted": 2
+      },
+      {
+        "episode": 31,
+        "beats": 87,
+        "windows_examined": 311,
+        "eligible_windows": 130,
+        "shortlisted": 2
+      },
+      {
+        "episode": 32,
+        "beats": 117,
+        "windows_examined": 283,
+        "eligible_windows": 157,
+        "shortlisted": 2
+      },
+      {
+        "episode": 33,
+        "beats": 99,
+        "windows_examined": 315,
+        "eligible_windows": 156,
+        "shortlisted": 2
+      },
+      {
+        "episode": 34,
+        "beats": 116,
+        "windows_examined": 471,
+        "eligible_windows": 203,
+        "shortlisted": 2
+      },
+      {
+        "episode": 35,
+        "beats": 72,
+        "windows_examined": 614,
+        "eligible_windows": 130,
+        "shortlisted": 2
+      },
+      {
+        "episode": 36,
+        "beats": 121,
+        "windows_examined": 516,
+        "eligible_windows": 269,
+        "shortlisted": 2
+      },
+      {
+        "episode": 37,
+        "beats": 79,
+        "windows_examined": 292,
+        "eligible_windows": 91,
+        "shortlisted": 2
+      },
+      {
+        "episode": 38,
+        "beats": 57,
+        "windows_examined": 35,
+        "eligible_windows": 12,
+        "shortlisted": 2
+      },
+      {
+        "episode": 39,
+        "beats": 59,
+        "windows_examined": 159,
+        "eligible_windows": 50,
+        "shortlisted": 2
+      },
+      {
+        "episode": 40,
+        "beats": 51,
+        "windows_examined": 163,
+        "eligible_windows": 26,
+        "shortlisted": 2
+      },
+      {
+        "episode": 41,
+        "beats": 53,
+        "windows_examined": 164,
+        "eligible_windows": 52,
+        "shortlisted": 2
+      },
+      {
+        "episode": 42,
+        "beats": 37,
+        "windows_examined": 119,
+        "eligible_windows": 53,
+        "shortlisted": 1
+      },
+      {
+        "episode": 43,
+        "beats": 87,
+        "windows_examined": 329,
+        "eligible_windows": 174,
+        "shortlisted": 2
+      },
+      {
+        "episode": 44,
+        "beats": 54,
+        "windows_examined": 163,
+        "eligible_windows": 78,
+        "shortlisted": 1
+      },
+      {
+        "episode": 45,
+        "beats": 74,
+        "windows_examined": 144,
+        "eligible_windows": 65,
+        "shortlisted": 2
+      },
+      {
+        "episode": 46,
+        "beats": 75,
+        "windows_examined": 225,
+        "eligible_windows": 41,
+        "shortlisted": 2
+      },
+      {
+        "episode": 47,
+        "beats": 70,
+        "windows_examined": 310,
+        "eligible_windows": 90,
+        "shortlisted": 2
+      },
+      {
+        "episode": 48,
+        "beats": 43,
+        "windows_examined": 80,
+        "eligible_windows": 30,
+        "shortlisted": 2
+      },
+      {
+        "episode": 49,
+        "beats": 63,
+        "windows_examined": 186,
+        "eligible_windows": 31,
+        "shortlisted": 2
+      },
+      {
+        "episode": 50,
+        "beats": 40,
+        "windows_examined": 73,
+        "eligible_windows": 22,
+        "shortlisted": 2
+      }
+    ],
+    "windows_examined": 12753,
+    "eligible_windows": 5215,
+    "candidates": 98,
+    "candidates_passing": 59,
+    "exported": 10,
+    "call_counts": {},
+    "billed_usage_reported_this_run": {},
+    "input_fingerprint": "afc8851b42ab1729eeafa128b1d1a16ea87b7df3148e2ac2ff8b08be1ee2f117"
+  },
+  "promos": [
+    {
+      "hook": {
+        "quote": "I have never touched your property.",
+        "why": "Opening reveal hook by ALEXANDER within 3s."
+      },
+      "cliffhanger": {
+        "quote": "Fail, or refuse, and your husband hangs from the gallows.",
+        "why": "Cuts on CLARISSA's unresolved turn; verified against 15s post-cut defusal."
+      },
+      "score": 31,
+      "scores": null,
+      "hook_type": "reveal",
+      "reason": "ALEXANDER opens on a reveal hook, escalates through CLARISSA (“I want to see you crawl, sister.”), and cuts on CLARISSA’s unresolved cliffhanger with an explicit life-or-death ultimatum.",
+      "cold_viewer": {
+        "status": "heuristic_passed",
+        "speakers_in_clip": [
+          "ALEXANDER",
+          "GERALD",
+          "JULIANA",
+          "CLARISSA"
+        ],
+        "self_contained_opening": true
+      },
+      "resolution": {
+        "status": "heuristic_passed",
+        "available_after_seconds": 30.0,
+        "immediate_defusal_detected": false
+      },
+      "status": "editor_review_required",
+      "pairwise_wins": null,
+      "id": "E12-2080-6950",
+      "segments": [
+        {
+          "episode": 12,
+          "start": "00:20.80",
+          "end": "01:09.50"
+        }
+      ],
+      "rank": 1,
+      "seconds": 48.7,
+      "post_first_because": "Post first: highest-scoring standalone ultimatum with zero backstory required — ALEXANDER opens on a reveal hook, escalates through CLARISSA (“I want to see you crawl, sister.”), and cuts on CLARISSA’s unresolved cliffhanger with an explicit life-or-death ultimatum."
+    },
+    {
+      "hook": {
+        "quote": "You think love makes you better than me?",
+        "why": "Opening relationship hook by CATHERINE within 3s."
+      },
+      "cliffhanger": {
+        "quote": "One flame, and your mother's life's work becomes ash.",
+        "why": "Cuts on CATHERINE's unresolved turn; verified against 15s post-cut defusal."
+      },
+      "score": 29,
+      "scores": null,
+      "hook_type": "relationship",
+      "reason": "CATHERINE opens on a relationship hook, escalates through JULIANA (“Knowledge. Love. And people who need me.”), and cuts on CATHERINE’s unresolved cliffhanger with an explicit life-or-death ultimatum.",
+      "cold_viewer": {
+        "status": "heuristic_passed",
+        "speakers_in_clip": [
+          "CATHERINE",
+          "JULIANA"
+        ],
+        "self_contained_opening": true
+      },
+      "resolution": {
+        "status": "heuristic_passed",
+        "available_after_seconds": 30.0,
+        "immediate_defusal_detected": false
+      },
+      "status": "editor_review_required",
+      "pairwise_wins": null,
+      "id": "E31-9120-15120",
+      "segments": [
+        {
+          "episode": 31,
+          "start": "01:31.20",
+          "end": "02:31.20"
+        }
+      ],
+      "rank": 2,
+      "seconds": 60.0,
+      "post_first_because": "Rank #2: strong relationship angle — CATHERINE opens on a relationship hook, escalates through JULIANA (“Knowledge. Love. And people who need me.”), and cuts on CATHERINE’s unresolved cliffhanger with an explicit life-or-death ultimatum."
+    },
+    {
+      "hook": {
+        "quote": "The people call it poisoning!",
+        "why": "Opening threat hook by LORD within 3s."
+      },
+      "cliffhanger": {
+        "quote": "You understand that refusal may be treated as proof that you knowingly practiced witchcraft?",
+        "why": "Cuts on JUDGE's unresolved turn; verified against 15s post-cut defusal."
+      },
+      "score": 29,
+      "scores": null,
+      "hook_type": "threat",
+      "reason": "LORD opens on a threat hook, escalates through LORD (“Even now, she refuses to repent.”), and cuts on JUDGE’s unresolved cliffhanger with an explicit life-or-death ultimatum.",
+      "cold_viewer": {
+        "status": "heuristic_passed",
+        "speakers_in_clip": [
+          "LORD",
+          "LADY JULIANA",
+          "JUDGE"
+        ],
+        "self_contained_opening": true
+      },
+      "resolution": {
+        "status": "heuristic_passed",
+        "available_after_seconds": 30.0,
+        "immediate_defusal_detected": false
+      },
+      "status": "editor_review_required",
+      "pairwise_wins": null,
+      "id": "E34-11000-16200",
+      "segments": [
+        {
+          "episode": 34,
+          "start": "01:50.00",
+          "end": "02:42.00"
+        }
+      ],
+      "rank": 3,
+      "seconds": 52.0,
+      "post_first_because": "Rank #3: strong threat angle — LORD opens on a threat hook, escalates through LORD (“Even now, she refuses to repent.”), and cuts on JUDGE’s unresolved cliffhanger with an explicit life-or-death ultimatum."
+    },
+    {
+      "hook": {
+        "quote": "Why are you holding her hand?",
+        "why": "Opening relationship hook by LADY JULIANA within 3s."
+      },
+      "cliffhanger": {
+        "quote": "She is what I should have chosen from the beginning.",
+        "why": "Cuts on THE FORMER GROOM's unresolved turn; verified against 15s post-cut defusal."
+      },
+      "score": 28,
+      "scores": null,
+      "hook_type": "relationship",
+      "reason": "2-segment stitch (cross-episode) compresses the setup and payoff; LADY JULIANA opens on a relationship hook, escalates through LADY JULIANA (“You let me believe I was walking toward my husband!”), and cuts on THE FORMER GROOM’s unresolved cliffhanger at a high-stakes dramatic reversal.",
+      "cold_viewer": {
+        "status": "heuristic_passed",
+        "speakers_in_clip": [
+          "LADY JULIANA",
+          "LADY IN GOLD GOWN",
+          "THE FORMER GROOM"
+        ],
+        "self_contained_opening": true
+      },
+      "resolution": {
+        "status": "heuristic_passed",
+        "available_after_seconds": 30.0,
+        "immediate_defusal_detected": false
+      },
+      "status": "editor_review_required",
+      "pairwise_wins": null,
+      "id": "E01-3540-6010+E02-0-3060",
+      "segments": [
+        {
+          "episode": 1,
+          "start": "00:35.40",
+          "end": "01:00.10"
+        },
+        {
+          "episode": 2,
+          "start": "00:00.00",
+          "end": "00:30.60"
+        }
+      ],
+      "rank": 4,
+      "seconds": 55.3,
+      "post_first_because": "Rank #4 (multi-segment stitch): test spliced pacing — 2-segment stitch (cross-episode) compresses the setup and payoff; LADY JULIANA opens on a relationship hook, escalates through LADY JULIANA (“You let me believe I was walking toward my husband!”), and cuts on THE FORMER GROOM’s unresolved cliffhanger at a high-stakes dramatic reversal."
+    },
+    {
+      "hook": {
+        "quote": "You stole my wedding.",
+        "why": "Opening reveal hook by LADY JULIANA within 3s."
+      },
+      "cliffhanger": {
+        "quote": "Lady Juliana... accept my hand.",
+        "why": "Cuts on THE BEARDED STRANGER's unresolved turn; verified against 15s post-cut defusal."
+      },
+      "score": 28,
+      "scores": null,
+      "hook_type": "reveal",
+      "reason": "2-segment stitch (intra-episode) compresses the setup and payoff; LADY JULIANA opens on a reveal hook, escalates through LADY JULIANA (“Don't pretend you've earned anything.”), and cuts on THE BEARDED STRANGER’s unresolved cliffhanger at a high-stakes dramatic reversal.",
+      "cold_viewer": {
+        "status": "heuristic_passed",
+        "speakers_in_clip": [
+          "LADY JULIANA",
+          "LADY IN GOLD GOWN",
+          "NOBLE MATRIARCH",
+          "THE BEARDED STRANGER"
+        ],
+        "self_contained_opening": true
+      },
+      "resolution": {
+        "status": "heuristic_passed",
+        "available_after_seconds": 30.0,
+        "immediate_defusal_detected": false
+      },
+      "status": "editor_review_required",
+      "pairwise_wins": null,
+      "id": "E03-850-3030+E03-11920-14050",
+      "segments": [
+        {
+          "episode": 3,
+          "start": "00:08.50",
+          "end": "00:30.30"
+        },
+        {
+          "episode": 3,
+          "start": "01:59.20",
+          "end": "02:20.50"
+        }
+      ],
+      "rank": 5,
+      "seconds": 43.1,
+      "post_first_because": "Rank #5 (multi-segment stitch): test spliced pacing — 2-segment stitch (intra-episode) compresses the setup and payoff; LADY JULIANA opens on a reveal hook, escalates through LADY JULIANA (“Don't pretend you've earned anything.”), and cuts on THE BEARDED STRANGER’s unresolved cliffhanger at a high-stakes dramatic reversal."
+    },
+    {
+      "hook": {
+        "quote": "A witch has no need for family heirlooms in the gallows.",
+        "why": "Opening threat hook by CATHERINE within 3s."
+      },
+      "cliffhanger": {
+        "quote": "This book of weeds will hang her before the magistrate.",
+        "why": "Cuts on CATHERINE's unresolved turn; verified against 15s post-cut defusal."
+      },
+      "score": 26,
+      "scores": null,
+      "hook_type": "threat",
+      "reason": "CATHERINE opens on a threat hook, escalates through JULIANA (“Do not speak about my husband!”), and cuts on CATHERINE’s unresolved cliffhanger with an explicit life-or-death ultimatum.",
+      "cold_viewer": {
+        "status": "heuristic_passed",
+        "speakers_in_clip": [
+          "CATHERINE",
+          "JULIANA",
+          "BLOND NOBLEMAN"
+        ],
+        "self_contained_opening": true
+      },
+      "resolution": {
+        "status": "heuristic_passed",
+        "available_after_seconds": 30.0,
+        "immediate_defusal_detected": false
+      },
+      "status": "editor_review_required",
+      "pairwise_wins": null,
+      "id": "E28-7890-12880",
+      "segments": [
+        {
+          "episode": 28,
+          "start": "01:18.90",
+          "end": "02:08.80"
+        }
+      ],
+      "rank": 6,
+      "seconds": 49.9,
+      "post_first_because": "Rank #6: strong threat angle — CATHERINE opens on a threat hook, escalates through JULIANA (“Do not speak about my husband!”), and cuts on CATHERINE’s unresolved cliffhanger with an explicit life-or-death ultimatum."
+    },
+    {
+      "hook": {
+        "quote": "It is an antidote.",
+        "why": "Opening reveal hook by JULIANA within 3s."
+      },
+      "cliffhanger": {
+        "quote": "She admits she has been giving the Duchess poison in secret!",
+        "why": "Cuts on LADY CATHERINE's unresolved turn; verified against 15s post-cut defusal."
+      },
+      "score": 26,
+      "scores": null,
+      "hook_type": "reveal",
+      "reason": "JULIANA opens on a reveal hook, escalates through LADY CATHERINE (“An antidote to what?”), and cuts on LADY CATHERINE’s unresolved cliffhanger at a high-stakes dramatic reversal.",
+      "cold_viewer": {
+        "status": "heuristic_passed",
+        "speakers_in_clip": [
+          "JULIANA",
+          "LADY CATHERINE",
+          "BLOND NOBLEMAN"
+        ],
+        "self_contained_opening": true
+      },
+      "resolution": {
+        "status": "heuristic_passed",
+        "available_after_seconds": 30.0,
+        "immediate_defusal_detected": false
+      },
+      "status": "editor_review_required",
+      "pairwise_wins": null,
+      "id": "E27-10780-12850",
+      "segments": [
+        {
+          "episode": 27,
+          "start": "01:47.80",
+          "end": "02:08.50"
+        }
+      ],
+      "rank": 7,
+      "seconds": 20.7,
+      "post_first_because": "Rank #7: strong reveal angle — JULIANA opens on a reveal hook, escalates through LADY CATHERINE (“An antidote to what?”), and cuts on LADY CATHERINE’s unresolved cliffhanger at a high-stakes dramatic reversal."
+    },
+    {
+      "hook": {
+        "quote": "You cannot just destroy it!",
+        "why": "Opening threat hook by JULIANA within 3s."
+      },
+      "cliffhanger": {
+        "quote": "What exactly do you think a penniless veteran can do against Ashbrook?",
+        "why": "Cuts on CATHERINE's unresolved turn; verified against 15s post-cut defusal."
+      },
+      "score": 25,
+      "scores": null,
+      "hook_type": "threat",
+      "reason": "JULIANA opens on a threat hook, escalates through CATHERINE (“I can burn it.”), and cuts on CATHERINE’s unresolved cliffhanger leaving an unanswered confrontation question.",
+      "cold_viewer": {
+        "status": "heuristic_passed",
+        "speakers_in_clip": [
+          "JULIANA",
+          "CATHERINE"
+        ],
+        "self_contained_opening": true
+      },
+      "resolution": {
+        "status": "heuristic_passed",
+        "available_after_seconds": 30.0,
+        "immediate_defusal_detected": false
+      },
+      "status": "editor_review_required",
+      "pairwise_wins": null,
+      "id": "E29-4430-7850",
+      "segments": [
+        {
+          "episode": 29,
+          "start": "00:44.30",
+          "end": "01:18.50"
+        }
+      ],
+      "rank": 8,
+      "seconds": 34.2,
+      "post_first_because": "Rank #8: strong threat angle — JULIANA opens on a threat hook, escalates through CATHERINE (“I can burn it.”), and cuts on CATHERINE’s unresolved cliffhanger leaving an unanswered confrontation question."
+    },
+    {
+      "hook": {
+        "quote": "It belonged to my mother! It is all I have left of her.",
+        "why": "Opening relationship hook by JULIANA within 3s."
+      },
+      "cliffhanger": {
+        "quote": "A noblewoman reduced to a beggar's wife!",
+        "why": "Cuts on GERALD's unresolved turn; verified against 15s post-cut defusal."
+      },
+      "score": 23,
+      "scores": null,
+      "hook_type": "relationship",
+      "reason": "JULIANA opens on a relationship hook, escalates through CLARISSA (“Even your mother's precious legacy has been cast into the dirt!”), and cuts on GERALD’s unresolved cliffhanger with the consequence still hanging.",
+      "cold_viewer": {
+        "status": "heuristic_passed",
+        "speakers_in_clip": [
+          "JULIANA",
+          "LADY ASHCROFT",
+          "CLARISSA",
+          "GERALD"
+        ],
+        "self_contained_opening": true
+      },
+      "resolution": {
+        "status": "heuristic_passed",
+        "available_after_seconds": 30.0,
+        "immediate_defusal_detected": false
+      },
+      "status": "editor_review_required",
+      "pairwise_wins": null,
+      "id": "E05-4900-9650",
+      "segments": [
+        {
+          "episode": 5,
+          "start": "00:49.00",
+          "end": "01:36.50"
+        }
+      ],
+      "rank": 9,
+      "seconds": 47.5,
+      "post_first_because": "Rank #9: strong relationship angle — JULIANA opens on a relationship hook, escalates through CLARISSA (“Even your mother's precious legacy has been cast into the dirt!”), and cuts on GERALD’s unresolved cliffhanger with the consequence still hanging."
+    },
+    {
+      "hook": {
+        "quote": "I was humiliated by your family.",
+        "why": "Opening confrontation hook by LADY JULIANA within 3s."
+      },
+      "cliffhanger": {
+        "quote": "What are you waiting for?! He's only one man!",
+        "why": "Cuts on THE FORMER GROOM's unresolved turn; verified against 15s post-cut defusal."
+      },
+      "score": 21,
+      "scores": null,
+      "hook_type": "confrontation",
+      "reason": "LADY JULIANA opens on a confrontation hook, escalates through NOBLE MATRIARCH (“Your father has made his choice.”), and cuts on THE FORMER GROOM’s unresolved cliffhanger leaving an unanswered confrontation question.",
+      "cold_viewer": {
+        "status": "heuristic_passed",
+        "speakers_in_clip": [
+          "LADY JULIANA",
+          "NOBLE MATRIARCH",
+          "THE BEARDED STRANGER",
+          "ROYAL GUARD"
+        ],
+        "self_contained_opening": true
+      },
+      "resolution": {
+        "status": "heuristic_passed",
+        "available_after_seconds": 30.0,
+        "immediate_defusal_detected": false
+      },
+      "status": "editor_review_required",
+      "pairwise_wins": null,
+      "id": "E03-3030-8810",
+      "segments": [
+        {
+          "episode": 3,
+          "start": "00:30.30",
+          "end": "01:28.10"
+        }
+      ],
+      "rank": 10,
+      "seconds": 57.8,
+      "post_first_because": "Rank #10: strong confrontation angle — LADY JULIANA opens on a confrontation hook, escalates through NOBLE MATRIARCH (“Your father has made his choice.”), and cuts on THE FORMER GROOM’s unresolved cliffhanger leaving an unanswered confrontation question."
+    }
+  ]
+}

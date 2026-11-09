@@ -1,0 +1,34 @@
+{
+  "gold_count": 6,
+  "recovered": 5,
+  "ranked_count": 10,
+  "recall": 0.8333333333333334,
+  "iou_threshold": 0.5,
+  "matches": [
+    {
+      "gold_id": "gold-e12-briar-ultimatum",
+      "rank": 1,
+      "iou": 1.0
+    },
+    {
+      "gold_id": "gold-e31-dungeon-hot-iron",
+      "rank": 2,
+      "iou": 1.0
+    },
+    {
+      "gold_id": "gold-e34-witchcraft-trial",
+      "rank": 3,
+      "iou": 1.0
+    },
+    {
+      "gold_id": "gold-e01-e02-altar-betrayal",
+      "rank": 4,
+      "iou": 1.0
+    },
+    {
+      "gold_id": "gold-e03-chapel-proposal-stitch",
+      "rank": 5,
+      "iou": 1.0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "provider": "Groq",
+  "base_url": "https://api.groq.com/openai/v1",
+  "model": "openai/gpt-oss-20b",
+  "api_key_env": "GROQ_API_KEY",
+  "windows_per_episode": 2,
+  "max_stitches": 2,
+  "pairwise_pool": 15,
+  "publish_limit": 10,
+  "max_per_episode": 2,
+  "max_per_hook_type": 3
+}
